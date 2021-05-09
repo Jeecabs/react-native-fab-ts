@@ -1,31 +1,36 @@
 {
-  "name": "react-native-action-button",
-  "version": "2.9.0",
-  "description": "customizable multi-action-button component for react-native",
-  "main": "ActionButton.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mastermoo/react-native-action-button.git"
-  },
-  "keywords": [
-    "react-native",
-    "action-button",
-    "float-button",
-    "multi-action-button"
-  ],
-  "peerDependencies": {
-    "react-native": ">=0.11"
-  },
-  "author": "Yousef Kamawall",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mastermoo/react-native-action-button/issues"
-  },
-  "homepage": "https://github.com/mastermoo/react-native-action-button",
-  "dependencies": {
-    "prop-types": "^15.5.10"
-  }
+    "name": "react-native-fab-ts",
+    "version": "0.1.0",
+    "description": "customizable floating-action-button component for react-native",
+    "main": "ActionButton.tsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Jeecabs/react-native-fab-ts"
+    },
+    "keywords": [
+        "react-native",
+        "action-button",
+        "float-button",
+        "multi-action-button",
+        "floating-action-button"
+    ],
+    "peerDependencies": {
+        "react-native": ">=0.11"
+    },
+    "author": "Jeecabs",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Jeecabs/react-native-fab-ts/issues"
+    },
+    "homepage": "https://github.com/Jeecabs/react-native-fab-ts",
+    "devDependencies": {
+        "@babel/core": "~7.12.10",
+        "@types/react": "~16.9.35",
+        "@types/react-native": "~0.63.2",
+        "jest-expo": "^39.0.0",
+        "typescript": "~3.9.2"
+    }
 }
